@@ -199,3 +199,5 @@ SELECT frequency FROM laptop WHERE os LIKE "%windows%" and ram = 8  ORDER BY pri
 |       3.6 |
 |       3.8 |
 +-----------+
+
+SELECT max(price) FROM 
